@@ -15,7 +15,7 @@ To install them, please use the following commands :
 - pip install tkinter
 - pip install stable_baselines3[extra]
 
-Please note also that if you are running the main.py file on a macintosh, you might need to uncomment the os line otherwise you might get an error.
+Please note also that if you are running the main.py file on a macintosh, you might need to uncomment lines 20-21 otherwise you might get an error.
 
 
 How it works
