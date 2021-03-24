@@ -1,4 +1,4 @@
-**Status:** Maintenance (expect bug fixes and minor updates)
+**Status:** Maintenance (expect minor updates)
 
 Skyjo
 **********
