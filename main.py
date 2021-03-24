@@ -17,9 +17,11 @@ from plotting.save_model import SaveOnBestTrainingRewardCallback,plot_results2,p
 from plotting.compare_2_agents import compare_on_n_games,multi_compare_on_n_games
 from tkinter import messagebox,simpledialog
 
+## NECESSARY FOR MAC USERS
+#os.environ['KMP_DUPLICATE_LIB_OK']='True'
+
 gamma = 0.99
 
-os.environ['KMP_DUPLICATE_LIB_OK']='True'
 
 #Create the files for training logs
 
